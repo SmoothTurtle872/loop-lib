@@ -11,3 +11,5 @@ To create a loop run the `ll:create_loop` function. It requires the following ar
 **IMPORTANT** The loop index counts down rather than counting up
 
 **NOTE** For examples check the sample folder inside the datapack, you can also run them to see how they work
+
+**NOTE** You can modify the current loop state, allowing you to make things like while loops
