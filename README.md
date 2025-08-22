@@ -13,3 +13,8 @@ To create a loop run the `ll:create_loop` function. It requires the following ar
 **NOTE** For examples check the sample folder inside the datapack, you can also run them to see how they work
 
 **NOTE** You can modify the current loop state, allowing you to make things like while loops
+
+## Downloads
+[Modrinth](https://modrinth.com/datapack/loop-lib)  
+[Smithed](https://smithed.net/packs/loop-lib)  
+Or download from the releases tab here
